@@ -1,4 +1,6 @@
 __pycache__/
 *.pyc
 data/
+!data/.gitkeep
+!data/**/.gitkeep
 .ipynb_checkpoints/
